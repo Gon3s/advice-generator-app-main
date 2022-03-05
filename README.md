@@ -17,5 +17,5 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [](https://gon3s.github.io/advice-generator-app-main/)
 - Live Site URL: [](https://github.com/Gon3s/advice-generator-app-main)
