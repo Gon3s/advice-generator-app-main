@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/advice-generator-app-main",
     "preview": "vite preview --port 5050",
     "deploy": "deploy.bat"
   },
